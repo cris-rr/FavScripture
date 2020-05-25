@@ -6,4 +6,5 @@
     <string name="display_button">Show Scripture</string>
     <string name="load_button">Load Scripture</string>
     <string name="title_message">Enter your favorite scripture</string>
+    <string name="save_button">Save Scripture</string>
 </resources>
