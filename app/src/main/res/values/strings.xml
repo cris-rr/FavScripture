@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">FavScripture</string>
+    <string name="chapter_message">Chapter</string>
+    <string name="book_message">Book</string>
+    <string name="verse_message">Verse</string>
+    <string name="display_button">Show Scripture</string>
+    <string name="load_button">Load Scripture</string>
+    <string name="title_message">Enter your favorite scripture</string>
 </resources>
